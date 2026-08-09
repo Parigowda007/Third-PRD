@@ -1,0 +1,179 @@
+START
+
+Create input scanner
+
+1. Take student details
+   Enter Student ID
+   Enter Full Name
+   Enter Age
+
+2. Validate Age
+   IF age is less than 15 OR greater than 35
+       Ask for age again
+   Repeat until age is valid
+
+3. Enter Email
+
+4. Take Course Choice
+   Enter course choice from 1 to 5
+
+   IF choice is invalid
+       Ask for course choice again
+   Repeat until valid
+
+5. Select Course
+   IF choice is 1
+       Course = BCA
+       Fee = 35000
+
+   ELSE IF choice is 2
+       Course = B.Sc Computer Science
+       Fee = 30000
+
+   ELSE IF choice is 3
+       Course = B.E/B.Tech
+       Fee = 50000
+
+   ELSE IF choice is 4
+       Course = MCA
+       Fee = 45000
+
+   ELSE
+       Course = Other
+       Fee = 25000
+
+6. Enter Semester
+   Enter semester from 1 to 8
+   If invalid, ask again
+
+7. Enter Career Goal
+
+8. Enter marks
+   Enter Java marks
+   Enter SQL marks
+   Enter Web Technology marks
+   Enter Aptitude marks
+   Enter Communication marks
+
+   For every subject:
+       If marks are not between 0 and 100
+           Ask for marks again
+
+9. Calculate academic result
+   Calculate total marks
+   Calculate percentage
+
+   IF every subject mark is at least 35
+      AND percentage is at least 40
+       Academic Result = PASSED
+   ELSE
+       Academic Result = FAILED
+
+10. Calculate Grade
+    IF result is FAILED
+        Grade = F
+    ELSE IF percentage >= 85
+        Grade = A+
+    ELSE IF percentage >= 75
+        Grade = A
+    ELSE IF percentage >= 65
+        Grade = B
+    ELSE IF percentage >= 50
+        Grade = C
+    ELSE
+        Grade = D
+
+11. Enter attendance details
+    Enter total classes
+    Enter classes attended
+
+    Validate the values
+
+    Calculate attendance percentage
+
+    IF attendance percentage >= 75
+        Attendance Status = REGULAR
+    ELSE
+        Attendance Status = SHORTAGE
+
+12. Enter number of assignments
+
+    FOR each assignment
+        Enter assignment score
+
+        IF score is -1
+            Stop entering assignments
+
+        ELSE IF score is invalid
+            Skip that assignment
+
+        ELSE
+            Add score to total
+            Count the valid assignment
+
+13. Calculate assignment average
+
+    IF assignment average >= 5
+        Assignment Status = SATISFACTORY
+    ELSE
+        Assignment Status = NEEDS IMPROVEMENT
+
+14. Calculate scholarship
+
+    IF academic result is PASSED
+       AND percentage >= 85
+       AND attendance >= 85
+        Scholarship = 10%
+
+    ELSE IF academic result is PASSED
+       AND percentage >= 75
+       AND attendance >= 75
+        Scholarship = 5%
+
+    ELSE
+        Scholarship = 0%
+
+15. Calculate fees
+    Calculate scholarship amount
+    Calculate final payable fee
+
+16. Enter amount paid
+
+    IF amount is invalid
+        Ask again
+
+17. Calculate fee balance
+
+    IF balance is 0
+        Fee Status = PAID
+    ELSE
+        Fee Status = PENDING
+
+18. Decide semester clearance
+
+    IF academic result is PASSED
+       AND attendance >= 75
+       AND assignment status is SATISFACTORY
+       AND fee balance is 0
+
+        Semester Clearance = CLEARED FOR NEXT SEMESTER
+
+    ELSE
+        Semester Clearance = ACTION REQUIRED
+
+19. Display Student Semester Report
+
+20. Display failed conditions
+    Check each subject
+    Check percentage
+    Check attendance
+    Check assignments
+    Check fee balance
+
+21. Display recommendations
+    Show improvement message for each failed condition
+
+22. If everything is satisfactory
+    Display good performance message
+
+END

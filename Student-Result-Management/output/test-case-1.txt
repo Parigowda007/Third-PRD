@@ -1,0 +1,105 @@
+Enter Student id: 
+STU111
+Enter Full Name: 
+PARIKSHITH D
+Enter  age: 
+22
+Enter Email: 
+PARIKSHITH.OFFICIAL.IN@GMAIL.COM
+Enter Course Choice: 
+1
+Enter semester (1-8):  
+3
+Enter Carrer Goal:
+DEVELOPER
+Enter Java marks: 
+91
+Enter SQL marks: 
+92
+Enter Web Technology marks: 
+93
+Enter Aptitude marks: 
+90
+Enter Communication marks: 
+90
+enter total classes conducted: 
+10
+enter classes attended: 
+10
+totalAssignments: 
+10
+Enter assignment score 1: 
+10
+Enter assignment score 2: 
+10
+Enter assignment score 3: 
+10
+Enter assignment score 4: 
+10
+Enter assignment score 5: 
+10
+Enter assignment score 6: 
+10
+Enter assignment score 7: 
+10
+Enter assignment score 8: 
+10
+Enter assignment score 9: 
+10
+Enter assignment score 10: 
+10
+final amount after discount is: 31500.0
+Amount paid 
+31500
+========================================================
+                 STUDENT SEMESTER REPORT
+========================================================
+Student ID                 :STU111
+Student Name               :PARIKSHITH D
+Age                        :22
+Email                      :PARIKSHITH.OFFICIAL.IN@GMAIL.COM
+Course                     :1
+Semester                   :3
+Career Goal                :DEVELOPER
+
+---------------- ACADEMIC SUMMARY --------------------
+Java Marks                 :91
+SQL Marks                  :92
+Web Technology Marks       :93
+Aptitude Marks              :90
+Communication Marks        :90
+Total Marks                :456
+Percentage                 :91.2
+Academic Result            :PASSED
+Grade                      :A+
+
+---------------- ATTENDANCE SUMMARY ------------------
+Classes Conducted          :10
+Classes Attended           :10
+Attendance Percentage      :100.0
+Attendance Status          :REGULAR
+
+---------------- ASSIGNMENT SUMMARY ------------------
+Valid Assignments          :10
+Assignment Total           :100
+Assignment Average         :10.0
+Assignment Status          :SATISFACTORY
+
+---------------- FEE SUMMARY -------------------------
+Base Semester Fee          :35000
+Scholarship Percentage     :10.0
+Scholarship Amount         :3500.0
+Final Payable Fee          :31500.0
+Amount Paid                :31500.0
+Fee Balance                :0.0
+Fee Status                 :PAID
+
+---------------- FINAL STATUS ------------------------
+Semester Clearance         :CLEARED FOR NEXT SEMESTER
+
+---------------- FAILED CONDITIONS -------------------
+NoNe
+
+---------------- RECOMMENDATIONS ---------------------
+Good performance. Continue maintaining your academic standards.
+========================================================

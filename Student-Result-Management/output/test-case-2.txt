@@ -1,0 +1,104 @@
+Enter Student id: 
+STU112
+Enter Full Name: 
+Harshitha HS
+Enter  age: 
+22
+Enter Email: 
+harshithahs420@gmail.com
+Enter Course Choice: 
+3
+Enter semester (1-8):  
+3
+1
+Enter Carrer Goal:Enter Java marks: 
+90
+Enter SQL marks: 
+29
+Enter Web Technology marks: 
+88
+Enter Aptitude marks: 
+76
+Enter Communication marks: 
+69
+enter total classes conducted: 
+40
+enter classes attended: 
+40
+totalAssignments: 
+10
+Enter assignment score 1: 
+10
+Enter assignment score 2: 
+10
+Enter assignment score 3: 
+10
+Enter assignment score 4: 
+10
+Enter assignment score 5: 
+10
+Enter assignment score 6: 
+10
+Enter assignment score 7: 
+10
+Enter assignment score 8: 
+10
+Enter assignment score 9: 
+10
+Enter assignment score 10: 
+10
+final amount after discount is: 50000.0
+Amount paid 
+50000
+========================================================
+                 STUDENT SEMESTER REPORT
+========================================================
+Student ID                 :STU112
+Student Name               :Harshitha HS
+Age                        :22
+Email                      :harshithahs420@gmail.com
+Course                     :3
+Semester                   :3
+Career Goal                :1
+
+---------------- ACADEMIC SUMMARY --------------------
+Java Marks                 :90
+SQL Marks                  :29
+Web Technology Marks       :88
+Aptitude Marks              :76
+Communication Marks        :69
+Total Marks                :352
+Percentage                 :70.39999999999999
+Academic Result            :FAILED
+Grade                      :F
+
+---------------- ATTENDANCE SUMMARY ------------------
+Classes Conducted          :40
+Classes Attended           :40
+Attendance Percentage      :100.0
+Attendance Status          :REGULAR
+
+---------------- ASSIGNMENT SUMMARY ------------------
+Valid Assignments          :10
+Assignment Total           :100
+Assignment Average         :10.0
+Assignment Status          :SATISFACTORY
+
+---------------- FEE SUMMARY -------------------------
+Base Semester Fee          :50000
+Scholarship Percentage     :0.0
+Scholarship Amount         :0.0
+Final Payable Fee          :50000.0
+Amount Paid                :50000.0
+Fee Balance                :0.0
+Fee Status                 :PAID
+
+---------------- FINAL STATUS ------------------------
+Semester Clearance         :ACTION REQUIRED
+
+---------------- FAILED CONDITIONS -------------------
+Failed in SQL
+
+---------------- RECOMMENDATIONS ---------------------
+Practice SQL queries and database concepts.
+========================================================

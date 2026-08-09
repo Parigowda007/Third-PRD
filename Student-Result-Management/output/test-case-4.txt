@@ -1,0 +1,95 @@
+Enter Student id: 
+STU114
+Enter Full Name: 
+KHUSHI HY
+Enter  age: 
+22
+Enter Email: 
+khushi13@gamil.com
+Enter Course Choice: 
+4
+Enter semester (1-8):  
+4
+Enter Carrer Goal:
+java developer
+Enter Java marks: 
+78
+Enter SQL marks: 
+22
+Enter Web Technology marks: 
+56
+Enter Aptitude marks: 
+43
+Enter Communication marks: 
+77
+enter total classes conducted: 
+50
+enter classes attended: 
+38
+totalAssignments: 
+5
+Enter assignment score 1: 
+9
+Enter assignment score 2: 
+8
+Enter assignment score 3: 
+7
+Enter assignment score 4: 
+10
+Enter assignment score 5: 
+10
+final amount after discount is: 45000.0
+Amount paid 
+45000
+========================================================
+                 STUDENT SEMESTER REPORT
+========================================================
+Student ID                 :STU114
+Student Name               :KHUSHI HY
+Age                        :22
+Email                      :khushi13@gamil.com
+Course                     :4
+Semester                   :4
+Career Goal                :java developer
+
+---------------- ACADEMIC SUMMARY --------------------
+Java Marks                 :78
+SQL Marks                  :22
+Web Technology Marks       :56
+Aptitude Marks              :43
+Communication Marks        :77
+Total Marks                :276
+Percentage                 :55.2
+Academic Result            :FAILED
+Grade                      :F
+
+---------------- ATTENDANCE SUMMARY ------------------
+Classes Conducted          :50
+Classes Attended           :38
+Attendance Percentage      :76.0
+Attendance Status          :REGULAR
+
+---------------- ASSIGNMENT SUMMARY ------------------
+Valid Assignments          :5
+Assignment Total           :44
+Assignment Average         :8.8
+Assignment Status          :SATISFACTORY
+
+---------------- FEE SUMMARY -------------------------
+Base Semester Fee          :45000
+Scholarship Percentage     :0.0
+Scholarship Amount         :0.0
+Final Payable Fee          :45000.0
+Amount Paid                :45000.0
+Fee Balance                :0.0
+Fee Status                 :PAID
+
+---------------- FINAL STATUS ------------------------
+Semester Clearance         :ACTION REQUIRED
+
+---------------- FAILED CONDITIONS -------------------
+Failed in SQL
+
+---------------- RECOMMENDATIONS ---------------------
+Practice SQL queries and database concepts.
+========================================================

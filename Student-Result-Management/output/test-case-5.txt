@@ -1,0 +1,98 @@
+Enter Student id: 
+STU115
+Enter Full Name: 
+KAVANA
+Enter  age: 
+12
+Inavlid Age 
+Enter  age between 15 and 35: 
+16
+Enter Email: 
+kavana111@gmail.com
+Enter Course Choice: 
+2
+Enter semester (1-8):  
+1
+Enter Carrer Goal:
+development
+Enter Java marks: 
+72
+Enter SQL marks: 
+53
+Enter Web Technology marks: 
+37
+Enter Aptitude marks: 
+66
+Enter Communication marks: 
+60
+enter total classes conducted: 
+50
+enter classes attended: 
+50
+totalAssignments: 
+5
+Enter assignment score 1: 
+5
+Enter assignment score 2: 
+5
+Enter assignment score 3: 
+5
+Enter assignment score 4: 
+5
+Enter assignment score 5: 
+8
+final amount after discount is: 30000.0
+Amount paid 
+30000
+========================================================
+                 STUDENT SEMESTER REPORT
+========================================================
+Student ID                 :STU115
+Student Name               :KAVANA
+Age                        :16
+Email                      :kavana111@gmail.com
+Course                     :2
+Semester                   :1
+Career Goal                :development
+
+---------------- ACADEMIC SUMMARY --------------------
+Java Marks                 :72
+SQL Marks                  :53
+Web Technology Marks       :37
+Aptitude Marks              :66
+Communication Marks        :60
+Total Marks                :288
+Percentage                 :57.599999999999994
+Academic Result            :PASSED
+Grade                      :C
+
+---------------- ATTENDANCE SUMMARY ------------------
+Classes Conducted          :50
+Classes Attended           :50
+Attendance Percentage      :100.0
+Attendance Status          :REGULAR
+
+---------------- ASSIGNMENT SUMMARY ------------------
+Valid Assignments          :5
+Assignment Total           :28
+Assignment Average         :5.6
+Assignment Status          :SATISFACTORY
+
+---------------- FEE SUMMARY -------------------------
+Base Semester Fee          :30000
+Scholarship Percentage     :0.0
+Scholarship Amount         :0.0
+Final Payable Fee          :30000.0
+Amount Paid                :30000.0
+Fee Balance                :0.0
+Fee Status                 :PAID
+
+---------------- FINAL STATUS ------------------------
+Semester Clearance         :CLEARED FOR NEXT SEMESTER
+
+---------------- FAILED CONDITIONS -------------------
+NoNe
+
+---------------- RECOMMENDATIONS ---------------------
+Good performance. Continue maintaining your academic standards.
+========================================================
