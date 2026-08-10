@@ -10,6 +10,6 @@ Jayasri - True           https://github.com/jayasrit10/Third-prd
 lahare Priya - False
 Anamikabharti - True     https://github.com/AnamikaBharti257/Third-PRD
 Nikitha - True           https://github.com/nikhitavankayalapati/Third-PRD
-Venkatesh - False
-Hari Krishna - False
+Venkatesh - True         https://github.com/venkatesh805/Third-PRD
+Hari Krishna - True      https://github.com/boyaharikrishna/Third-PRD
 Vamsi - False
